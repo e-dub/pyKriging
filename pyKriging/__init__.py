@@ -1,5 +1,5 @@
 __author__ = 'chrispaulson'
-from .krige import *
-from .samplingplan import *
-from .testfunctions import *
-from .utilities import *
+from pyKriging.krige import *
+from pyKriging.samplingplan import *
+from pyKriging.testfunctions import *
+from pyKriging.utilities import *
